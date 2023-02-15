@@ -1,0 +1,13 @@
+{
+  "homePage": "الصفحة الرئيسية",
+  "personalInformation": "معلومات شخصية",
+  "name": "اسم",
+  "nameHint": "أدخل أسمك",
+  "email": "بريد إلكتروني",
+  "emailHint": "أدخل بريدك الإلكتروني",
+  "dateOfBirth": "تاريخ الميلاد",
+  "requiredField": "يتطلب حقلا",
+  "submitInfo": "إرسال المعلومات",
+  "aboutUs": "معلومات عنا",
+  "settings": "إعدادات"
+}
